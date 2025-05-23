@@ -2,4 +2,4 @@
 
 - Downloading PlanetScope imagery
 - Training Random Forest Model
-- Run snowe cover classifications
+- Run snow cover classifications
